@@ -2,9 +2,8 @@
 
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 ![Internship](https://img.shields.io/badge/Internship-Week%201-blue)
-![SQL](https://img.shields.io/badge/SQL-MySQL-orange)
 ![Python](https://img.shields.io/badge/Python-3.x-yellow)
-![License](https://img.shields.io/badge/License-MIT-green)
+
 
 ## 📌 Overview
 
@@ -14,37 +13,7 @@ The objective of Week 1 was to strengthen the fundamentals of data analysis and 
 
 Each task has been completed independently with proper documentation and organized folder structure.
 
----
 
-## 📂 Repository Structure
-
-```
-Week-1-Project/
-│
-├── Task-1/
-│   ├── files
-│   └── README.md
-│
-├── Task-2/
-│   ├── files
-│   └── README.md
-│
-├── Task-3/
-│   ├── files
-│   └── README.md
-│
-├── Task-4/
-│   ├── files
-│   └── README.md
-│
-├── Task-5/
-│   ├── files
-│   └── README.md
-│
-└── README.md
-```
-
----
 
 # 📚 Week 1 Tasks
 
