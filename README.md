@@ -95,10 +95,9 @@ Successfully complete the final task of Week 1.
 # 🛠 Technologies Used
 
 - Python
-- SQL (MySQL)
-- Git
+- Model Training
 - GitHub
-- VS Code
+- Jupyter Notebook
 
 ---
 
@@ -110,7 +109,6 @@ Throughout this week, I gained practical experience in:
 - Repository management
 - Problem solving
 - Debugging
-- SQL fundamentals
 - Python programming
 - Writing clean and maintainable code
 - Project documentation
@@ -189,9 +187,9 @@ Thanks to the mentors and team at **Xylofi** for providing practical assignments
 
 B.Tech Computer Science Engineering (Data Science)
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/opmeenaji81
 
-LinkedIn: https://linkedin.com/in/your-profile
+LinkedIn: https://www.linkedin.com/in/opmeenaji/
 
 ---
 
